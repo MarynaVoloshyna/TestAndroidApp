@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="resultText">RESULT</string>
+    <string name="firstNumber"> </string>
+    <string name="secondNumber">Result</string>
+    <string name="resultButtonText">Show result</string>
+    <string name="hint1">Input first number</string>
+    <string name="hint2">Input second number</string>
+
+
+
+
+</resources>
